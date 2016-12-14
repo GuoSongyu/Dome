@@ -1,0 +1,2 @@
+常用的小Demo文件
+drop Dome and isImgLoad：礼物掉落效果加上JS图片加载验证方法
