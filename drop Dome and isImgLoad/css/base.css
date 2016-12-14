@@ -1,0 +1,95 @@
+body {
+	font-family:Microsoft YaHei, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 1.8;
+}
+ul, li{ list-style:none; text-decoration:none;}
+a{ text-decoration:none; color:#000000;}
+*{ margin:0px; padding:0px; border:0px;}
+/**************************************************************/
+.Christmas{
+		max-width:720px;
+		margin:0px auto;
+		position:relative;
+		
+		}
+		
+.Christmas .up_img{
+		width:100%;
+		position:relative;
+		background-size:100%;
+		
+		}
+		
+.Christmas .up_img img{
+		display:block;
+		}
+		
+.Christmas .down_img img{
+		display:block;
+		}
+		
+.Christmas .down_img{
+		width:100%;
+		
+		
+		}
+		
+.Christmas .down_img .activite_number{
+		position:absolute;
+		bottom:26%;
+		left:0px;
+		right:0px;
+		text-align:center;
+		color:#fff;
+		font-size:14px;
+		}
+		
+.Christmas .down_img .activite_number .words_yellow{
+		color:#ffc000;
+		}
+		
+.Christmas .down_img .input_btn{
+		position:absolute;
+		bottom:18%;
+		left:0px;
+		right:0px;
+		margin-right:auto;
+		margin-left:auto;
+		width:97px;
+		}
+		
+.Christmas .down_img .input_btn #btn1{
+		
+		display:block;
+		width:97px;
+		height:38px;
+		outline:none;
+		border:0px;
+		text-align:center;
+		line-height:38px;
+		font-size:16px;
+		color:#fff;
+		background:#ffc000;
+		font-family:Microsoft YaHei;
+		border-radius:3px;
+		
+		}
+		
+.Christmas .up_img .music_btn{
+		display:block;
+		position:absolute;
+		width:30px;
+		height:30px;
+		background:url(../img/music_icon.png) no-repeat center;
+		background-size:100% 100%;
+		right:15px;
+		top:20px;
+		}
+		
+.Christmas canvas{
+		z-index:990;
+		position:absolute;
+		
+		}
