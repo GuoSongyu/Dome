@@ -1,2 +1,3 @@
 常用的小Demo文件
 drop Dome and isImgLoad：礼物掉落效果加上JS图片加载验证方法
+imgbase64:通过base64图片上传并通过画布压缩（可以在手机端实现并解决了iphone图片方向不正确的问题）
